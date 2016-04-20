@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+node_modules
+npm-debug.log
+
+# Exclude compiled files
+lib
+build
+
+# Exclude IDE project folders
+_book
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_STORE
