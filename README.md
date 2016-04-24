@@ -1,1 +1,1 @@
-# [npm 工具书](https://github.com/chaocer/npm)
+# [npm 工具书](https://github.com/chaocer/npm/docs)
