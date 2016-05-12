@@ -179,7 +179,7 @@ common options: [-S|--save|-D|--save-dev|-O|--save-optional] [-E|--save-exact] [
 
 ![dedupe](https://docs.npmjs.com/images/npm3deps12.png)
 
-`npm dedupe`
+`npm dedupe`包去重，简化
 
 `npm ddp`
 
@@ -190,7 +190,7 @@ common options: [-S|--save|-D|--save-dev|-O|--save-optional] [-E|--save-exact] [
 
 `npm dist-tag ls [<pkg>]`
 
-`npm outdated`
+`npm outdated` 更新信息
 
 Tags can be used to provide an alias instead of version numbers.
 
